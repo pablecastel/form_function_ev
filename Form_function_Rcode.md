@@ -313,35 +313,19 @@ project/
 
 ---
 
-## Future Directions
-
-- Incorporate ecological variables (diet, habitat) to test adaptive hypotheses
-- Expand to 3D morphometrics for complete cranial analysis
-- Test ontogenetic vs. evolutionary allometries
-- Mechanistic biomechanical modeling (FEA) to link shape to performance
-
----
-
 ## Citation
 
-[Your Name]. (2025). Variable yet ubiquitous: Hierarchical scaling of head functional morphology in lizards. *PhD Dissertation Chapter*, [University Name].
+Vicent-Castelló, P. (2025). Variable yet ubiquitous: Hierarchical scaling of head functional morphology in lizards. *PhD Dissertation Chapter*, Evolution. In review. 
 
 ---
 
 ## Contact
 
-**Author**: [Your Name]  
-**Email**: [your.email@institution.edu]  
-**ORCID**: [0000-0000-0000-0000]
+**Author**: Pablo Vicent-Castelló
+**Email**: pablovicent0000@gmail.com 
 
 ---
 
 ## Acknowledgments
 
 This analysis uses geometric morphometric and phylogenetic comparative methods following best practices in evolutionary biology. Special thanks to the developers of `geomorph`, `RRPP`, and `phytools` packages.
-
----
-
-## License
-
-[Choose appropriate license: MIT, CC-BY-4.0, etc.]

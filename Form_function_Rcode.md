@@ -156,6 +156,8 @@ ggplot(fit.hab.ggplot.data_1, aes(x = bite, y = RegScore, color = sp)) +
   facet_wrap(~ sp)
 ```
 
+![pic](https://github.com/pablecastel/form_function_ev/blob/main/Regression_plot_individuals_wrap_1006.tif)
+
 **Output**: 22 panels showing species-specific bite force-shape relationships.
 
 #### Overlaid Trajectories
